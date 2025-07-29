@@ -63,15 +63,7 @@ We can now test access control. Lets try to download that as bob, a non-admin (D
 
  
 
-and that is reflected in the key server:
-
- 
-
-and the key log:
-
- 
-
-and the audit log:
+and that is reflected in the key server and the key log and the audit log
 
  
 
