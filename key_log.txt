@@ -1,0 +1,3 @@
+[2025-07-28 00:51:51.305806] GET /get-key | group=admin, filename=testfile.txt | Granted
+[2025-07-28 00:53:26.574440] GET /get-key | group=admin, filename=testfile.txt | Granted
+[2025-07-28 00:54:03.627239] GET /get-key | group=admin, filename=testfile.txt | Granted

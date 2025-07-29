@@ -1,0 +1,8 @@
+{
+  "example_file.txt": "admin",
+  "notes.pdf": "user",
+  "example.txt": "admin",
+  "testfile.txt": [
+    "admin"
+  ]
+}

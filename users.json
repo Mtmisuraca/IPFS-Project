@@ -1,0 +1,10 @@
+{
+  "thomas": {
+    "password": "password123",
+    "group": "admin"
+  },
+  "bob": {
+    "password": "user456",
+    "group": "user"
+  }
+}
